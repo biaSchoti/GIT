@@ -1,0 +1,58 @@
+[
+	{
+		"id": "1",
+		"name": "VIKINGS - Young's Stout",
+		"description":"",
+		"price": 69.99,
+		"image": "Young-stout.png"
+	},
+  {
+		"id": "2",
+		"name": "VOLCELEST - Golden Pale",
+		"description":"",
+		"price": 75.00,
+		"image": "PALE -.PNG"
+	},
+	{
+		"id": "3",
+		"name": "Marwhal - Black Beer",
+		"description":"",
+		"price": 55.00,
+		"image": "Marwhal - Black Beer.PNG"
+	},
+	{
+		"id": "4",
+		"name": "Ouropretana - English Pale Ale",
+		"description":"",
+		"price": 89.00,
+		"image": "Ouropretana - English Pale Ale.PNG"
+	},
+	{
+		"id": "5",
+		"name": "Ouropretana - Golden Lager",
+		"description":"",
+		"price": 99.99,
+		"image": "Ouropretana - Golden Lager.PNG"
+	},
+	{
+		"id": "6",
+		"name": "Negra Modelo - Honey bee",
+		"description":"",
+		"price": 65.00,
+		"image": "Negra Modelo - Honey beer.PNG"
+	},
+	{
+		"id": "7",
+		"name": "Impeesa - Porter",
+		"description":"",
+		"price": 65.00,
+		"image": "Impeesa - Porter.PNG"
+	},
+	{
+		"id": "8",
+		"name": "Cornet- Pale Ale",
+		"description":"",
+		"price": 35.00,
+		"image": "Cornet -.PNG"
+	}
+]
